@@ -1,8 +1,8 @@
 ### My sandbox
 
-## cypress testing
+## cypress testing (spec. branch: cypress-testing)
 
-## Magento 2.3.5-p2
+## Magento 2.3.5-p2 + sample data
 
 ## PHP 7.3
 
